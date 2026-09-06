@@ -1,4 +1,0 @@
-google-genai>=0.8.0
-SpeechRecognition>=3.10.0
-PyAudio>=0.2.14
-Pillow>=10.0.0
